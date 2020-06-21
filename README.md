@@ -1,4 +1,4 @@
-# Instax
+# Instax1
 ## Author: github.com/dhasirar
 ## IG: instagram.com/dhasirar
 ### Don't copy this code without give me the credits, 
